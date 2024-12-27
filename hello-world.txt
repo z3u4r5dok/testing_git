@@ -1,3 +1,9 @@
-This file is for the practice purpose.
+This is the text-body of the file that is being created that I just changed
+
+this is new line 1
+
+this is new line 2
+
+this is new line 3
 
   
