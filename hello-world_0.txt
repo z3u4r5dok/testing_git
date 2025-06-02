@@ -1,1 +1,7 @@
 This is the ussual message when we start to learn a programming language..
+
+This is an edit
+
+This is a new line
+
+Thi is the last line.
